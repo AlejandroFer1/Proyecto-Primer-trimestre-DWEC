@@ -86,6 +86,7 @@ function displayEpisodes(episodes, favorites) {
 
     document.querySelectorAll('.favorite-btn').forEach(button => {
         button.addEventListener('click', (e) => {
+            e.preventDefault();
             const type = e.target.getAttribute('data-type');
             const id = parseInt(e.target.getAttribute('data-id'));
             const name = e.target.closest('.card').querySelector('h3').textContent;

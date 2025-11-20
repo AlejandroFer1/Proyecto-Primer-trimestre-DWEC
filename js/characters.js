@@ -67,7 +67,7 @@ function displayCharacters(characters, favorites) {
     }
 
     characters.forEach(char => {
-        let imgSrc = char.img ? char.img.replace(/(\.png|\.jpg|\.jpeg|\.gif|\.webp).*$/i, '$1') : '';
+        let imgSrc = char.img ? char.img.replace(/(\.png|\.jpg|\.jpeg|\.gif|\.webp).*$/i, '$1') : 'https://placehold.co/200x300?text=Sin+Imagen';
 
         const isFav = favorites.some(fav => fav.type === 'character' && fav.originId === char.id);
 
@@ -75,7 +75,7 @@ function displayCharacters(characters, favorites) {
         card.className = 'card';
         card.innerHTML = `
             <h3>${char.name}</h3>
-            ${imgSrc ? `<img src="${imgSrc}" alt="${char.name}" style="max-width: 200px; margin: 10px 0;">` : ''}
+            <img src="${imgSrc}" alt="${char.name}" style="max-width: 200px; margin: 10px 0;">
             <p><strong>Alias:</strong> ${char.alias && char.alias.length > 0 ? char.alias.join(', ') : 'Ninguno'}</p>
             <p><strong>Estado:</strong> ${char.status || 'Desconocido'}</p>
             <p><strong>Especie:</strong> ${char.species?.join(', ') || 'Desconocido'}</p>
@@ -95,6 +95,7 @@ function displayCharacters(characters, favorites) {
     // Event listeners para favoritos
     document.querySelectorAll('.favorite-btn').forEach(button => {
         button.addEventListener('click', (e) => {
+            e.preventDefault();
             const type = e.target.getAttribute('data-type');
             const id = parseInt(e.target.getAttribute('data-id'));
             const name = e.target.closest('.card').querySelector('h3').textContent;

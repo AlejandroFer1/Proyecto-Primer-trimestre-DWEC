@@ -17,7 +17,9 @@ async function toggleFavorite(type, id, name, img, button) {
         const response = await fetch(API_URL);
         const favorites = await response.json();
         // Find by type and the original resource ID (originId)
-        const existingFav = favorites.find(fav => fav.type === type && fav.originId === id);
+        // Convert both to numbers for proper comparison
+        const numId = typeof id === 'string' ? parseInt(id) : id;
+        const existingFav = favorites.find(fav => fav.type === type && parseInt(fav.originId) === numId);
 
         if (existingFav) {
             // Eliminar
@@ -29,7 +31,7 @@ async function toggleFavorite(type, id, name, img, button) {
             // Añadir
             // We use 'originId' to store the original resource ID,
             // letting json-server generate its own primary 'id'.
-            const favToSave = { type, originId: id, name, img };
+            const favToSave = { type, originId: numId, name, img };
 
             await fetch(API_URL, {
                 method: 'POST',

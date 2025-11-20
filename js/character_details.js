@@ -24,11 +24,11 @@ async function loadCharacterDetails(id) {
         const char = await charResponse.json();
 
         // Render Character Details
-        let imgSrc = char.img ? char.img.replace(/(\.png|\.jpg|\.jpeg|\.gif|\.webp).*$/i, '$1') : '';
+        let imgSrc = char.img ? char.img.replace(/(\.png|\.jpg|\.jpeg|\.gif|\.webp).*$/i, '$1') : 'https://placehold.co/300x400?text=Sin+Imagen';
 
         detailsContainer.innerHTML = `
             <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-                ${imgSrc ? `<img src="${imgSrc}" alt="${char.name}" style="max-width: 300px; border-radius: 8px; border: 2px solid #d4af37;">` : ''}
+                <img src="${imgSrc}" alt="${char.name}" style="max-width: 300px; border-radius: 8px; border: 2px solid #d4af37;">
                 <div>
                     <h2 style="color: #d4af37; margin-top: 0;">${char.name}</h2>
                     <p><strong>Alias:</strong> ${char.alias && char.alias.length > 0 ? char.alias.join(', ') : 'Ninguno'}</p>
