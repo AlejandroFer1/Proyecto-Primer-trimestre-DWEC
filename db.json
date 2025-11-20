@@ -1,0 +1,1901 @@
+{
+  "favorites": [
+    {
+      "id": "f439",
+      "type": "character",
+      "originId": 1,
+      "name": "Armin Arlelt",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png"
+    }
+  ],
+  "characters": [
+    {
+      "id": "1",
+      "name": "Armin Arlelt",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210322005647",
+      "alias": [
+        "Colossal Titan"
+      ],
+      "species": [
+        "Human",
+        "Intelligent Titan"
+      ],
+      "gender": "Male",
+      "age": 19,
+      "height": "60 m (Colossal Titan form)",
+      "relatives": [
+        {
+          "family": "Arlelt family",
+          "members": [
+            "Unnamed father",
+            "Unnamed mother",
+            "Unnamed grandfather"
+          ]
+        }
+      ],
+      "birthplace": "Shiganshina District",
+      "residence": "Wall Rose",
+      "status": "Alive",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Special Operations Squad"
+          ]
+        }
+      ],
+      "roles": [
+        "Colossal Titans",
+        "Scout Regiment Commanders"
+      ],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/1",
+        "https://api.attackontitanapi.com/episodes/2",
+        "https://api.attackontitanapi.com/episodes/3",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/5",
+        "https://api.attackontitanapi.com/episodes/6",
+        "https://api.attackontitanapi.com/episodes/7",
+        "https://api.attackontitanapi.com/episodes/8",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/10",
+        "https://api.attackontitanapi.com/episodes/11",
+        "https://api.attackontitanapi.com/episodes/12",
+        "https://api.attackontitanapi.com/episodes/13",
+        "https://api.attackontitanapi.com/episodes/14",
+        "https://api.attackontitanapi.com/episodes/16",
+        "https://api.attackontitanapi.com/episodes/17",
+        "https://api.attackontitanapi.com/episodes/18",
+        "https://api.attackontitanapi.com/episodes/20",
+        "https://api.attackontitanapi.com/episodes/21",
+        "https://api.attackontitanapi.com/episodes/22",
+        "https://api.attackontitanapi.com/episodes/23",
+        "https://api.attackontitanapi.com/episodes/24",
+        "https://api.attackontitanapi.com/episodes/25",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/28",
+        "https://api.attackontitanapi.com/episodes/30",
+        "https://api.attackontitanapi.com/episodes/31",
+        "https://api.attackontitanapi.com/episodes/32",
+        "https://api.attackontitanapi.com/episodes/33",
+        "https://api.attackontitanapi.com/episodes/34",
+        "https://api.attackontitanapi.com/episodes/35",
+        "https://api.attackontitanapi.com/episodes/36",
+        "https://api.attackontitanapi.com/episodes/37",
+        "https://api.attackontitanapi.com/episodes/38",
+        "https://api.attackontitanapi.com/episodes/39",
+        "https://api.attackontitanapi.com/episodes/40",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/43",
+        "https://api.attackontitanapi.com/episodes/44",
+        "https://api.attackontitanapi.com/episodes/45",
+        "https://api.attackontitanapi.com/episodes/46",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/52",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/56",
+        "https://api.attackontitanapi.com/episodes/57",
+        "https://api.attackontitanapi.com/episodes/58",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/60",
+        "https://api.attackontitanapi.com/episodes/62",
+        "https://api.attackontitanapi.com/episodes/66",
+        "https://api.attackontitanapi.com/episodes/67",
+        "https://api.attackontitanapi.com/episodes/68",
+        "https://api.attackontitanapi.com/episodes/69",
+        "https://api.attackontitanapi.com/episodes/71",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/73",
+        "https://api.attackontitanapi.com/episodes/75",
+        "https://api.attackontitanapi.com/episodes/76",
+        "https://api.attackontitanapi.com/episodes/77",
+        "https://api.attackontitanapi.com/episodes/78",
+        "https://api.attackontitanapi.com/episodes/79",
+        "https://api.attackontitanapi.com/episodes/80",
+        "https://api.attackontitanapi.com/episodes/81",
+        "https://api.attackontitanapi.com/episodes/82",
+        "https://api.attackontitanapi.com/episodes/83",
+        "https://api.attackontitanapi.com/episodes/84",
+        "https://api.attackontitanapi.com/episodes/85",
+        "https://api.attackontitanapi.com/episodes/86",
+        "https://api.attackontitanapi.com/episodes/87",
+        "https://api.attackontitanapi.com/episodes/88"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Mikasa Ackermann",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221220718",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Female",
+      "age": 19,
+      "height": "unknown",
+      "relatives": [
+        {
+          "family": "Ackermann family",
+          "members": [
+            "Unnamed father",
+            "Unnamed relative",
+            "https://api.attackontitanapi.com/characters/57",
+            "https://api.attackontitanapi.com/characters/165",
+            "https://api.attackontitanapi.com/characters/5",
+            "Unnamed mother",
+            "https://api.attackontitanapi.com/characters/125"
+          ]
+        }
+      ],
+      "birthplace": "Shiganshina District Outskirts? → Shiganshina District",
+      "residence": "Wall Rose",
+      "status": "Alive",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Special Operations Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/1",
+        "https://api.attackontitanapi.com/episodes/2",
+        "https://api.attackontitanapi.com/episodes/3",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/5",
+        "https://api.attackontitanapi.com/episodes/6",
+        "https://api.attackontitanapi.com/episodes/7",
+        "https://api.attackontitanapi.com/episodes/8",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/10",
+        "https://api.attackontitanapi.com/episodes/11",
+        "https://api.attackontitanapi.com/episodes/12",
+        "https://api.attackontitanapi.com/episodes/13",
+        "https://api.attackontitanapi.com/episodes/14",
+        "https://api.attackontitanapi.com/episodes/16",
+        "https://api.attackontitanapi.com/episodes/17",
+        "https://api.attackontitanapi.com/episodes/18",
+        "https://api.attackontitanapi.com/episodes/19",
+        "https://api.attackontitanapi.com/episodes/20",
+        "https://api.attackontitanapi.com/episodes/21",
+        "https://api.attackontitanapi.com/episodes/22",
+        "https://api.attackontitanapi.com/episodes/23",
+        "https://api.attackontitanapi.com/episodes/24",
+        "https://api.attackontitanapi.com/episodes/25",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/28",
+        "https://api.attackontitanapi.com/episodes/30",
+        "https://api.attackontitanapi.com/episodes/31",
+        "https://api.attackontitanapi.com/episodes/32",
+        "https://api.attackontitanapi.com/episodes/33",
+        "https://api.attackontitanapi.com/episodes/34",
+        "https://api.attackontitanapi.com/episodes/35",
+        "https://api.attackontitanapi.com/episodes/36",
+        "https://api.attackontitanapi.com/episodes/37",
+        "https://api.attackontitanapi.com/episodes/38",
+        "https://api.attackontitanapi.com/episodes/39",
+        "https://api.attackontitanapi.com/episodes/40",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/43",
+        "https://api.attackontitanapi.com/episodes/44",
+        "https://api.attackontitanapi.com/episodes/45",
+        "https://api.attackontitanapi.com/episodes/46",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/52",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/56",
+        "https://api.attackontitanapi.com/episodes/57",
+        "https://api.attackontitanapi.com/episodes/58",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/60",
+        "https://api.attackontitanapi.com/episodes/61",
+        "https://api.attackontitanapi.com/episodes/62",
+        "https://api.attackontitanapi.com/episodes/65",
+        "https://api.attackontitanapi.com/episodes/66",
+        "https://api.attackontitanapi.com/episodes/67",
+        "https://api.attackontitanapi.com/episodes/68",
+        "https://api.attackontitanapi.com/episodes/69",
+        "https://api.attackontitanapi.com/episodes/70",
+        "https://api.attackontitanapi.com/episodes/71",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/73",
+        "https://api.attackontitanapi.com/episodes/75",
+        "https://api.attackontitanapi.com/episodes/76",
+        "https://api.attackontitanapi.com/episodes/77",
+        "https://api.attackontitanapi.com/episodes/78",
+        "https://api.attackontitanapi.com/episodes/79",
+        "https://api.attackontitanapi.com/episodes/80",
+        "https://api.attackontitanapi.com/episodes/81",
+        "https://api.attackontitanapi.com/episodes/82",
+        "https://api.attackontitanapi.com/episodes/83",
+        "https://api.attackontitanapi.com/episodes/84",
+        "https://api.attackontitanapi.com/episodes/85",
+        "https://api.attackontitanapi.com/episodes/86",
+        "https://api.attackontitanapi.com/episodes/87",
+        "https://api.attackontitanapi.com/episodes/88"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Jean Kirschtein",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/38/Jean_Kirschtein_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210207230042",
+      "alias": [
+        "Horse face"
+      ],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": 19,
+      "height": "unknown",
+      "relatives": [
+        {
+          "family": "Kirschtein family",
+          "members": [
+            "Unnamed mother",
+            "Unnamed father[2]"
+          ]
+        }
+      ],
+      "birthplace": "Trost District",
+      "residence": "Wall Rose",
+      "status": "Alive",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Special Operations Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/2",
+        "https://api.attackontitanapi.com/episodes/3",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/5",
+        "https://api.attackontitanapi.com/episodes/7",
+        "https://api.attackontitanapi.com/episodes/8",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/10",
+        "https://api.attackontitanapi.com/episodes/11",
+        "https://api.attackontitanapi.com/episodes/12",
+        "https://api.attackontitanapi.com/episodes/13",
+        "https://api.attackontitanapi.com/episodes/14",
+        "https://api.attackontitanapi.com/episodes/16",
+        "https://api.attackontitanapi.com/episodes/17",
+        "https://api.attackontitanapi.com/episodes/18",
+        "https://api.attackontitanapi.com/episodes/20",
+        "https://api.attackontitanapi.com/episodes/21",
+        "https://api.attackontitanapi.com/episodes/22",
+        "https://api.attackontitanapi.com/episodes/23",
+        "https://api.attackontitanapi.com/episodes/24",
+        "https://api.attackontitanapi.com/episodes/25",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/30",
+        "https://api.attackontitanapi.com/episodes/31",
+        "https://api.attackontitanapi.com/episodes/32",
+        "https://api.attackontitanapi.com/episodes/33",
+        "https://api.attackontitanapi.com/episodes/34",
+        "https://api.attackontitanapi.com/episodes/35",
+        "https://api.attackontitanapi.com/episodes/36",
+        "https://api.attackontitanapi.com/episodes/37",
+        "https://api.attackontitanapi.com/episodes/38",
+        "https://api.attackontitanapi.com/episodes/39",
+        "https://api.attackontitanapi.com/episodes/40",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/43",
+        "https://api.attackontitanapi.com/episodes/44",
+        "https://api.attackontitanapi.com/episodes/45",
+        "https://api.attackontitanapi.com/episodes/46",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/52",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/56",
+        "https://api.attackontitanapi.com/episodes/58",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/60",
+        "https://api.attackontitanapi.com/episodes/65",
+        "https://api.attackontitanapi.com/episodes/66",
+        "https://api.attackontitanapi.com/episodes/67",
+        "https://api.attackontitanapi.com/episodes/68",
+        "https://api.attackontitanapi.com/episodes/69",
+        "https://api.attackontitanapi.com/episodes/70",
+        "https://api.attackontitanapi.com/episodes/71",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/73",
+        "https://api.attackontitanapi.com/episodes/75",
+        "https://api.attackontitanapi.com/episodes/76",
+        "https://api.attackontitanapi.com/episodes/77",
+        "https://api.attackontitanapi.com/episodes/78",
+        "https://api.attackontitanapi.com/episodes/80",
+        "https://api.attackontitanapi.com/episodes/81",
+        "https://api.attackontitanapi.com/episodes/82",
+        "https://api.attackontitanapi.com/episodes/83",
+        "https://api.attackontitanapi.com/episodes/84",
+        "https://api.attackontitanapi.com/episodes/85",
+        "https://api.attackontitanapi.com/episodes/86",
+        "https://api.attackontitanapi.com/episodes/87",
+        "https://api.attackontitanapi.com/episodes/88"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Conny Springer",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/37/Conny_Springer_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210211105306",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": 19,
+      "height": "unknown",
+      "relatives": [
+        {
+          "family": "Springer family",
+          "members": [
+            "Unnamed father",
+            "Unnamed mother",
+            "https://api.attackontitanapi.com/characters/154",
+            "https://api.attackontitanapi.com/characters/155"
+          ]
+        }
+      ],
+      "birthplace": "Ragako",
+      "residence": "Wall Rose",
+      "status": "Alive",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Special Operations Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/1",
+        "https://api.attackontitanapi.com/episodes/2",
+        "https://api.attackontitanapi.com/episodes/3",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/5",
+        "https://api.attackontitanapi.com/episodes/5",
+        "https://api.attackontitanapi.com/episodes/6",
+        "https://api.attackontitanapi.com/episodes/7",
+        "https://api.attackontitanapi.com/episodes/7",
+        "https://api.attackontitanapi.com/episodes/8",
+        "https://api.attackontitanapi.com/episodes/8",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/10",
+        "https://api.attackontitanapi.com/episodes/11",
+        "https://api.attackontitanapi.com/episodes/12",
+        "https://api.attackontitanapi.com/episodes/12",
+        "https://api.attackontitanapi.com/episodes/13",
+        "https://api.attackontitanapi.com/episodes/13",
+        "https://api.attackontitanapi.com/episodes/14",
+        "https://api.attackontitanapi.com/episodes/16",
+        "https://api.attackontitanapi.com/episodes/17",
+        "https://api.attackontitanapi.com/episodes/18",
+        "https://api.attackontitanapi.com/episodes/20",
+        "https://api.attackontitanapi.com/episodes/22",
+        "https://api.attackontitanapi.com/episodes/23",
+        "https://api.attackontitanapi.com/episodes/24",
+        "https://api.attackontitanapi.com/episodes/25",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/28",
+        "https://api.attackontitanapi.com/episodes/29",
+        "https://api.attackontitanapi.com/episodes/30",
+        "https://api.attackontitanapi.com/episodes/31",
+        "https://api.attackontitanapi.com/episodes/32",
+        "https://api.attackontitanapi.com/episodes/33",
+        "https://api.attackontitanapi.com/episodes/34",
+        "https://api.attackontitanapi.com/episodes/35",
+        "https://api.attackontitanapi.com/episodes/36",
+        "https://api.attackontitanapi.com/episodes/37",
+        "https://api.attackontitanapi.com/episodes/38",
+        "https://api.attackontitanapi.com/episodes/39",
+        "https://api.attackontitanapi.com/episodes/40",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/43",
+        "https://api.attackontitanapi.com/episodes/44",
+        "https://api.attackontitanapi.com/episodes/45",
+        "https://api.attackontitanapi.com/episodes/46",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/52",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/56",
+        "https://api.attackontitanapi.com/episodes/58",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/60",
+        "https://api.attackontitanapi.com/episodes/62",
+        "https://api.attackontitanapi.com/episodes/65",
+        "https://api.attackontitanapi.com/episodes/66",
+        "https://api.attackontitanapi.com/episodes/67",
+        "https://api.attackontitanapi.com/episodes/68",
+        "https://api.attackontitanapi.com/episodes/69",
+        "https://api.attackontitanapi.com/episodes/70",
+        "https://api.attackontitanapi.com/episodes/71",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/73",
+        "https://api.attackontitanapi.com/episodes/75",
+        "https://api.attackontitanapi.com/episodes/76",
+        "https://api.attackontitanapi.com/episodes/77",
+        "https://api.attackontitanapi.com/episodes/78",
+        "https://api.attackontitanapi.com/episodes/80",
+        "https://api.attackontitanapi.com/episodes/81",
+        "https://api.attackontitanapi.com/episodes/82",
+        "https://api.attackontitanapi.com/episodes/83",
+        "https://api.attackontitanapi.com/episodes/84",
+        "https://api.attackontitanapi.com/episodes/85",
+        "https://api.attackontitanapi.com/episodes/86",
+        "https://api.attackontitanapi.com/episodes/87",
+        "https://api.attackontitanapi.com/episodes/88"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Levi Ackermann",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b1/Levi_Ackermann_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20230309145235",
+      "alias": [
+        "Humanity's Strongest Soldier"
+      ],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": 30,
+      "height": "unknown",
+      "relatives": [
+        {
+          "family": "Ackermann family",
+          "members": [
+            "Unnamed great-grandfather",
+            "https://api.attackontitanapi.com/characters/165",
+            "https://api.attackontitanapi.com/characters/57",
+            "Unnamed relative",
+            "https://api.attackontitanapi.com/characters/2"
+          ]
+        }
+      ],
+      "birthplace": "Underground",
+      "residence": "Wall Rose",
+      "status": "Alive",
+      "occupation": "Thug",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Special Operations Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/2",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/7",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/10",
+        "https://api.attackontitanapi.com/episodes/12",
+        "https://api.attackontitanapi.com/episodes/13",
+        "https://api.attackontitanapi.com/episodes/21",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/39",
+        "https://api.attackontitanapi.com/episodes/40",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/43",
+        "https://api.attackontitanapi.com/episodes/44",
+        "https://api.attackontitanapi.com/episodes/45",
+        "https://api.attackontitanapi.com/episodes/46",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/52",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/56",
+        "https://api.attackontitanapi.com/episodes/58",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/61",
+        "https://api.attackontitanapi.com/episodes/65",
+        "https://api.attackontitanapi.com/episodes/66",
+        "https://api.attackontitanapi.com/episodes/67",
+        "https://api.attackontitanapi.com/episodes/68",
+        "https://api.attackontitanapi.com/episodes/69",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/73",
+        "https://api.attackontitanapi.com/episodes/74",
+        "https://api.attackontitanapi.com/episodes/76",
+        "https://api.attackontitanapi.com/episodes/78",
+        "https://api.attackontitanapi.com/episodes/82",
+        "https://api.attackontitanapi.com/episodes/83",
+        "https://api.attackontitanapi.com/episodes/84",
+        "https://api.attackontitanapi.com/episodes/85",
+        "https://api.attackontitanapi.com/episodes/86",
+        "https://api.attackontitanapi.com/episodes/87",
+        "https://api.attackontitanapi.com/episodes/88"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Buchwald",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0b/Buchwald_character_image.png/revision/latest/scale-to-width-down/350?cb=20210412043251",
+      "alias": [],
+      "species": [
+        "Horse"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "160 cm (at the withers)",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Alive",
+      "occupation": "Horse",
+      "groups": [],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/17",
+        "https://api.attackontitanapi.com/episodes/18",
+        "https://api.attackontitanapi.com/episodes/19",
+        "https://api.attackontitanapi.com/episodes/20",
+        "https://api.attackontitanapi.com/episodes/21",
+        "https://api.attackontitanapi.com/episodes/22"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Lima",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "unknown",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "unknown",
+      "status": "Unknown",
+      "occupation": "Soldier",
+      "groups": [],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/28",
+        "https://api.attackontitanapi.com/episodes/29",
+        "https://api.attackontitanapi.com/episodes/34"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Hange Zoë",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e4/Hange_Zo%C3%AB_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210221212604",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Ambiguous[9]",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [],
+      "roles": [
+        "Scout Regiment Commanders"
+      ],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/1",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/14",
+        "https://api.attackontitanapi.com/episodes/15",
+        "https://api.attackontitanapi.com/episodes/16",
+        "https://api.attackontitanapi.com/episodes/17",
+        "https://api.attackontitanapi.com/episodes/18",
+        "https://api.attackontitanapi.com/episodes/19",
+        "https://api.attackontitanapi.com/episodes/20",
+        "https://api.attackontitanapi.com/episodes/21",
+        "https://api.attackontitanapi.com/episodes/22",
+        "https://api.attackontitanapi.com/episodes/24",
+        "https://api.attackontitanapi.com/episodes/25",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/28",
+        "https://api.attackontitanapi.com/episodes/30",
+        "https://api.attackontitanapi.com/episodes/31",
+        "https://api.attackontitanapi.com/episodes/32",
+        "https://api.attackontitanapi.com/episodes/33",
+        "https://api.attackontitanapi.com/episodes/34",
+        "https://api.attackontitanapi.com/episodes/37",
+        "https://api.attackontitanapi.com/episodes/38",
+        "https://api.attackontitanapi.com/episodes/39",
+        "https://api.attackontitanapi.com/episodes/40",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/43",
+        "https://api.attackontitanapi.com/episodes/44",
+        "https://api.attackontitanapi.com/episodes/45",
+        "https://api.attackontitanapi.com/episodes/46",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/52",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/56",
+        "https://api.attackontitanapi.com/episodes/58",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/66",
+        "https://api.attackontitanapi.com/episodes/67",
+        "https://api.attackontitanapi.com/episodes/68",
+        "https://api.attackontitanapi.com/episodes/69",
+        "https://api.attackontitanapi.com/episodes/70",
+        "https://api.attackontitanapi.com/episodes/71",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/73",
+        "https://api.attackontitanapi.com/episodes/75",
+        "https://api.attackontitanapi.com/episodes/76",
+        "https://api.attackontitanapi.com/episodes/82",
+        "https://api.attackontitanapi.com/episodes/83",
+        "https://api.attackontitanapi.com/episodes/84",
+        "https://api.attackontitanapi.com/episodes/85",
+        "https://api.attackontitanapi.com/episodes/86",
+        "https://api.attackontitanapi.com/episodes/87",
+        "https://api.attackontitanapi.com/episodes/88"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Varis",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d8/Varis_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210308010615",
+      "alias": [],
+      "species": [
+        "Titan (formerly human)"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "unknown",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/67",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/73"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Sasha Braus",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0a/Sasha_Braus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210124211650",
+      "alias": [
+        "Potato Girl"
+      ],
+      "species": [
+        "Human"
+      ],
+      "gender": "Female",
+      "age": 20,
+      "height": "unknown",
+      "relatives": [
+        {
+          "family": "Braus family",
+          "members": [
+            "https://api.attackontitanapi.com/characters/131",
+            "https://api.attackontitanapi.com/characters/147",
+            "https://api.attackontitanapi.com/characters/132"
+          ]
+        }
+      ],
+      "birthplace": "Dauper",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Special Operations Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/2",
+        "https://api.attackontitanapi.com/episodes/3",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/7",
+        "https://api.attackontitanapi.com/episodes/8",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/10",
+        "https://api.attackontitanapi.com/episodes/11",
+        "https://api.attackontitanapi.com/episodes/13",
+        "https://api.attackontitanapi.com/episodes/14",
+        "https://api.attackontitanapi.com/episodes/16",
+        "https://api.attackontitanapi.com/episodes/17",
+        "https://api.attackontitanapi.com/episodes/18",
+        "https://api.attackontitanapi.com/episodes/20",
+        "https://api.attackontitanapi.com/episodes/21",
+        "https://api.attackontitanapi.com/episodes/22",
+        "https://api.attackontitanapi.com/episodes/25",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/28",
+        "https://api.attackontitanapi.com/episodes/30",
+        "https://api.attackontitanapi.com/episodes/31",
+        "https://api.attackontitanapi.com/episodes/32",
+        "https://api.attackontitanapi.com/episodes/33",
+        "https://api.attackontitanapi.com/episodes/34",
+        "https://api.attackontitanapi.com/episodes/35",
+        "https://api.attackontitanapi.com/episodes/36",
+        "https://api.attackontitanapi.com/episodes/37",
+        "https://api.attackontitanapi.com/episodes/38",
+        "https://api.attackontitanapi.com/episodes/39",
+        "https://api.attackontitanapi.com/episodes/40",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/43",
+        "https://api.attackontitanapi.com/episodes/44",
+        "https://api.attackontitanapi.com/episodes/45",
+        "https://api.attackontitanapi.com/episodes/46",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/52",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/56",
+        "https://api.attackontitanapi.com/episodes/58",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/60",
+        "https://api.attackontitanapi.com/episodes/65",
+        "https://api.attackontitanapi.com/episodes/66",
+        "https://api.attackontitanapi.com/episodes/67",
+        "https://api.attackontitanapi.com/episodes/68",
+        "https://api.attackontitanapi.com/episodes/69",
+        "https://api.attackontitanapi.com/episodes/70",
+        "https://api.attackontitanapi.com/episodes/77",
+        "https://api.attackontitanapi.com/episodes/78",
+        "https://api.attackontitanapi.com/episodes/81",
+        "https://api.attackontitanapi.com/episodes/87",
+        "https://api.attackontitanapi.com/episodes/88"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Lobov",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/6b/Lobov_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20210201012057",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "unknown",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/10",
+        "https://api.attackontitanapi.com/episodes/11",
+        "https://api.attackontitanapi.com/episodes/67"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Erwin Smith",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/de/Erwin_Smith_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190604212647",
+      "alias": [
+        "Eyebrow"
+      ],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [
+        {
+          "family": "Smith family",
+          "members": [
+            "https://api.attackontitanapi.com/characters/167"
+          ]
+        }
+      ],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [],
+      "roles": [
+        "Scout Regiment Commanders"
+      ],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/1",
+        "https://api.attackontitanapi.com/episodes/4",
+        "https://api.attackontitanapi.com/episodes/9",
+        "https://api.attackontitanapi.com/episodes/13",
+        "https://api.attackontitanapi.com/episodes/14",
+        "https://api.attackontitanapi.com/episodes/15",
+        "https://api.attackontitanapi.com/episodes/16",
+        "https://api.attackontitanapi.com/episodes/17",
+        "https://api.attackontitanapi.com/episodes/18",
+        "https://api.attackontitanapi.com/episodes/19",
+        "https://api.attackontitanapi.com/episodes/20",
+        "https://api.attackontitanapi.com/episodes/21",
+        "https://api.attackontitanapi.com/episodes/22",
+        "https://api.attackontitanapi.com/episodes/24",
+        "https://api.attackontitanapi.com/episodes/25",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/27",
+        "https://api.attackontitanapi.com/episodes/33",
+        "https://api.attackontitanapi.com/episodes/34",
+        "https://api.attackontitanapi.com/episodes/35",
+        "https://api.attackontitanapi.com/episodes/36",
+        "https://api.attackontitanapi.com/episodes/37",
+        "https://api.attackontitanapi.com/episodes/38",
+        "https://api.attackontitanapi.com/episodes/39",
+        "https://api.attackontitanapi.com/episodes/40",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/43",
+        "https://api.attackontitanapi.com/episodes/45",
+        "https://api.attackontitanapi.com/episodes/46",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/52",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/56",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/73",
+        "https://api.attackontitanapi.com/episodes/83",
+        "https://api.attackontitanapi.com/episodes/84",
+        "https://api.attackontitanapi.com/episodes/87",
+        "https://api.attackontitanapi.com/episodes/88"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Sandra",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/99/Sandra_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190519180153",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Female",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Klaus Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/87"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Gordon",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/0c/Gordon_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20190519180214",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Klaus Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/59"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Marlo Freudenberg",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/63/Marlo_Freudenberg_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20170514194208",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Sina",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Klaus Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/23",
+        "https://api.attackontitanapi.com/episodes/24",
+        "https://api.attackontitanapi.com/episodes/25",
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/41",
+        "https://api.attackontitanapi.com/episodes/42",
+        "https://api.attackontitanapi.com/episodes/47",
+        "https://api.attackontitanapi.com/episodes/48",
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/54",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/59",
+        "https://api.attackontitanapi.com/episodes/72",
+        "https://api.attackontitanapi.com/episodes/84",
+        "https://api.attackontitanapi.com/episodes/87"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Tomas",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/90/Tomas_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20180217182612",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Squad Miche"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/26",
+        "https://api.attackontitanapi.com/episodes/84"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Dieter",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/83/Dieter_character_image.png/revision/latest/scale-to-width-down/350?cb=20190520014953",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/22",
+        "https://api.attackontitanapi.com/episodes/53"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Dirk",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/09/Dirk_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195047",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/50",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/53",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/84"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Marlene",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/42/Marlene_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195843",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Female",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/84"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Klaus",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ad/Klaus_%28Anime%29_character_image.png/revision/latest/scale-to-width-down/350?cb=20181014195513",
+      "alias": [],
+      "species": [
+        "Human"
+      ],
+      "gender": "Male",
+      "age": "unknown",
+      "height": "unknown",
+      "relatives": [],
+      "birthplace": "unknown",
+      "residence": "Wall Rose",
+      "status": "Deceased",
+      "occupation": "Soldier",
+      "groups": [
+        {
+          "name": "Scout Regiment",
+          "sub_groups": [
+            "Klaus Squad"
+          ]
+        }
+      ],
+      "roles": [],
+      "episodes": [
+        "https://api.attackontitanapi.com/episodes/49",
+        "https://api.attackontitanapi.com/episodes/51",
+        "https://api.attackontitanapi.com/episodes/55",
+        "https://api.attackontitanapi.com/episodes/84"
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": "1",
+      "name": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b4/The_Colossal_Titan_outside_Shiganshina.png/revision/latest/scale-to-width-down/350?cb=20180721185812",
+      "episode": "S1E01",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/titans/4",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/71",
+        "https://api.attackontitanapi.com/characters/46",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/152",
+        "https://api.attackontitanapi.com/characters/67",
+        "https://api.attackontitanapi.com/characters/70",
+        "https://api.attackontitanapi.com/characters/149",
+        "https://api.attackontitanapi.com/characters/161",
+        "https://api.attackontitanapi.com/characters/160"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "That Day: The Fall of Shiganshina, Part 2",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/1/13/A_Titan_grabs_a_citizen.png/revision/latest/scale-to-width-down/350?cb=20180721191547",
+      "episode": "S1E02",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/67",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/163",
+        "https://api.attackontitanapi.com/characters/164",
+        "https://api.attackontitanapi.com/characters/70",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/158",
+        "https://api.attackontitanapi.com/titans/5",
+        "https://api.attackontitanapi.com/characters/151",
+        "https://api.attackontitanapi.com/characters/161",
+        "https://api.attackontitanapi.com/characters/160",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/71",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/80",
+        "https://api.attackontitanapi.com/characters/10"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "A Dim Light Amid Despair: Humanity's Comeback, Part 1",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ec/Cadets_during_debut_day.png/revision/latest/scale-to-width-down/350?cb=20180721193601",
+      "episode": "S1E03",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/71",
+        "https://api.attackontitanapi.com/characters/77",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/80",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/194",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/195",
+        "https://api.attackontitanapi.com/characters/72",
+        "https://api.attackontitanapi.com/characters/161"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "The Night of the Closing Ceremony: Humanity's Comeback, Part 2",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ed/Cadets_during_Titan_combat_training.png/revision/latest/scale-to-width-down/350?cb=20180721194648",
+      "episode": "S1E04",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/titans/4",
+        "https://api.attackontitanapi.com/titans/5",
+        "https://api.attackontitanapi.com/characters/161",
+        "https://api.attackontitanapi.com/characters/67",
+        "https://api.attackontitanapi.com/characters/71",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/76",
+        "https://api.attackontitanapi.com/characters/72",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/195",
+        "https://api.attackontitanapi.com/characters/77",
+        "https://api.attackontitanapi.com/characters/80",
+        "https://api.attackontitanapi.com/characters/194",
+        "https://api.attackontitanapi.com/characters/78",
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/34",
+        "https://api.attackontitanapi.com/characters/64"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "First Battle: The Struggle for Trost, Part 1",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/83/Eren_vs_Colossal_Titan.png/revision/latest/scale-to-width-down/350?cb=20170623113218",
+      "episode": "S1E05",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/titans/4",
+        "https://api.attackontitanapi.com/characters/80",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/72",
+        "https://api.attackontitanapi.com/characters/76",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/156",
+        "https://api.attackontitanapi.com/characters/66",
+        "https://api.attackontitanapi.com/characters/60",
+        "https://api.attackontitanapi.com/characters/65",
+        "https://api.attackontitanapi.com/characters/61",
+        "https://api.attackontitanapi.com/characters/77",
+        "https://api.attackontitanapi.com/characters/195",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/79",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/68",
+        "https://api.attackontitanapi.com/characters/78",
+        "https://api.attackontitanapi.com/characters/178"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "The World the Girl Saw: The Struggle for Trost, Part 2",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d5/Mikasa_threatens_a_merchant.png/revision/latest/scale-to-width-down/350?cb=20180721195714",
+      "episode": "S1E06",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/76",
+        "https://api.attackontitanapi.com/characters/72",
+        "https://api.attackontitanapi.com/characters/151",
+        "https://api.attackontitanapi.com/characters/68",
+        "https://api.attackontitanapi.com/characters/163",
+        "https://api.attackontitanapi.com/characters/164",
+        "https://api.attackontitanapi.com/characters/160",
+        "https://api.attackontitanapi.com/characters/162"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Small Blade: The Struggle for Trost, Part 3",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ee/Mikasa_displays_her_strength.png/revision/latest/scale-to-width-down/350?cb=20170802112501",
+      "episode": "S1E07",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/titans/4",
+        "https://api.attackontitanapi.com/titans/5",
+        "https://api.attackontitanapi.com/characters/67",
+        "https://api.attackontitanapi.com/characters/61",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/195",
+        "https://api.attackontitanapi.com/characters/75"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "I Can Hear His Heartbeat: The Struggle for Trost, Part 4",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/7/71/Marco_calms_Jean_down.png/revision/latest/scale-to-width-down/350?cb=20180721200700",
+      "episode": "S1E08",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/titans/4",
+        "https://api.attackontitanapi.com/characters/77",
+        "https://api.attackontitanapi.com/characters/80",
+        "https://api.attackontitanapi.com/characters/79",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/95"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Whereabouts of His Left Arm: The Struggle for Trost, Part 5",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/cd/Eren_inside_a_Titan%27s_stomach.png/revision/latest/scale-to-width-down/350?cb=20180721201501",
+      "episode": "S1E09",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/72",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/5",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/34",
+        "https://api.attackontitanapi.com/characters/39",
+        "https://api.attackontitanapi.com/characters/41",
+        "https://api.attackontitanapi.com/characters/40",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/161",
+        "https://api.attackontitanapi.com/characters/62",
+        "https://api.attackontitanapi.com/characters/61",
+        "https://api.attackontitanapi.com/characters/68",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/67",
+        "https://api.attackontitanapi.com/characters/64",
+        "https://api.attackontitanapi.com/titans/5",
+        "https://api.attackontitanapi.com/characters/160"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Response: The Struggle for Trost, Part 6",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/00/Eren_inside_his_Titan_form.png/revision/latest/scale-to-width-down/350?cb=20180721201929",
+      "episode": "S1E10",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/titans/4",
+        "https://api.attackontitanapi.com/titans/5",
+        "https://api.attackontitanapi.com/characters/67",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/62",
+        "https://api.attackontitanapi.com/characters/61",
+        "https://api.attackontitanapi.com/characters/68",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/195",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/66",
+        "https://api.attackontitanapi.com/characters/60",
+        "https://api.attackontitanapi.com/characters/65",
+        "https://api.attackontitanapi.com/characters/11"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Idol: The Struggle for Trost, Part 7",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b3/Pyxis_announces_the_Trost_Recovery_Operation.png/revision/latest/scale-to-width-down/350?cb=20180721202623",
+      "episode": "S1E11",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/62",
+        "https://api.attackontitanapi.com/characters/61",
+        "https://api.attackontitanapi.com/characters/68",
+        "https://api.attackontitanapi.com/characters/66",
+        "https://api.attackontitanapi.com/characters/60",
+        "https://api.attackontitanapi.com/characters/65",
+        "https://api.attackontitanapi.com/characters/195",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/11",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/67",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/69",
+        "https://api.attackontitanapi.com/characters/87"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Wound: The Struggle for Trost, Part 8",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ae/Cadets_are_instructed_to_lure_Titans_to_the_Wall.png/revision/latest/scale-to-width-down/350?cb=20180721203043",
+      "episode": "S1E12",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/titans/4",
+        "https://api.attackontitanapi.com/titans/5",
+        "https://api.attackontitanapi.com/characters/67",
+        "https://api.attackontitanapi.com/characters/77",
+        "https://api.attackontitanapi.com/characters/80",
+        "https://api.attackontitanapi.com/characters/79",
+        "https://api.attackontitanapi.com/characters/66",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/60",
+        "https://api.attackontitanapi.com/characters/65",
+        "https://api.attackontitanapi.com/characters/62",
+        "https://api.attackontitanapi.com/characters/68",
+        "https://api.attackontitanapi.com/characters/69",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/160",
+        "https://api.attackontitanapi.com/characters/161"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Primal Desire: The Struggle for Trost, Part 9",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2e/Eren_carries_the_boulder.png/revision/latest/scale-to-width-down/350?cb=20190312201044",
+      "episode": "S1E13",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/66",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/62",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/60",
+        "https://api.attackontitanapi.com/characters/65",
+        "https://api.attackontitanapi.com/characters/68",
+        "https://api.attackontitanapi.com/characters/69",
+        "https://api.attackontitanapi.com/characters/160",
+        "https://api.attackontitanapi.com/characters/161",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/197",
+        "https://api.attackontitanapi.com/characters/198",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/73",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/titans/5",
+        "https://api.attackontitanapi.com/titans/4"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Can't Look into His Eyes Yet: Eve of the Counterattack, Part 1",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/d5/Erwin_explains_his_idea_during_Eren%27s_trial.png/revision/latest/scale-to-width-down/350?cb=20180721210445",
+      "episode": "S1E14",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/50",
+        "https://api.attackontitanapi.com/characters/56",
+        "https://api.attackontitanapi.com/characters/100",
+        "https://api.attackontitanapi.com/characters/66",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/34",
+        "https://api.attackontitanapi.com/characters/152",
+        "https://api.attackontitanapi.com/characters/65",
+        "https://api.attackontitanapi.com/characters/60",
+        "https://api.attackontitanapi.com/characters/62"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Special Operations Squad: Eve of the Counterattack, Part 2",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/85/Levi_the_cleaner.png/revision/latest/scale-to-width-down/350?cb=20130720233326",
+      "episode": "S1E15",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/100",
+        "https://api.attackontitanapi.com/characters/38",
+        "https://api.attackontitanapi.com/characters/39",
+        "https://api.attackontitanapi.com/characters/40",
+        "https://api.attackontitanapi.com/characters/34",
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/22",
+        "https://api.attackontitanapi.com/characters/197",
+        "https://api.attackontitanapi.com/characters/198"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "What Needs to be Done Now: Eve of the Counterattack, Part 3",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4b/Eren_rides_with_Squad_Levi.jpg/revision/latest/scale-to-width-down/350?cb=20130728180314",
+      "episode": "S1E16",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/74",
+        "https://api.attackontitanapi.com/characters/80",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/77",
+        "https://api.attackontitanapi.com/characters/40",
+        "https://api.attackontitanapi.com/characters/41",
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/34",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/39",
+        "https://api.attackontitanapi.com/characters/42",
+        "https://api.attackontitanapi.com/characters/43",
+        "https://api.attackontitanapi.com/characters/37",
+        "https://api.attackontitanapi.com/characters/38",
+        "https://api.attackontitanapi.com/characters/44",
+        "https://api.attackontitanapi.com/characters/126"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Female Titan: The 57th Exterior Scouting Mission, Part 1",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/A_Scout_engages_a_Titan.png/revision/latest/scale-to-width-down/350?cb=20180721211142",
+      "episode": "S1E17",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/87",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/34",
+        "https://api.attackontitanapi.com/characters/43",
+        "https://api.attackontitanapi.com/characters/37",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/38",
+        "https://api.attackontitanapi.com/characters/39",
+        "https://api.attackontitanapi.com/characters/41",
+        "https://api.attackontitanapi.com/characters/40",
+        "https://api.attackontitanapi.com/characters/44",
+        "https://api.attackontitanapi.com/titans/6"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Forest of Giant Trees: The 57th Exterior Scouting Mission, Part 2",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/5/5c/The_Female_Titan_chases_Squad_Levi.png/revision/latest/scale-to-width-down/350?cb=20180721211702",
+      "episode": "S1E18",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/34",
+        "https://api.attackontitanapi.com/characters/39",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/43",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/40",
+        "https://api.attackontitanapi.com/characters/38",
+        "https://api.attackontitanapi.com/characters/41",
+        "https://api.attackontitanapi.com/titans/6",
+        "https://api.attackontitanapi.com/characters/44",
+        "https://api.attackontitanapi.com/characters/42"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Bite: The 57th Exterior Scouting Mission, Part 3",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/e8/Scouts_engage_the_Female_Titan.png/revision/latest/scale-to-width-down/350?cb=20180721211845",
+      "episode": "S1E19",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/titans/6",
+        "https://api.attackontitanapi.com/characters/39",
+        "https://api.attackontitanapi.com/characters/41",
+        "https://api.attackontitanapi.com/characters/40",
+        "https://api.attackontitanapi.com/characters/38",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/22",
+        "https://api.attackontitanapi.com/characters/12"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Erwin Smith: The 57th Exterior Scouting Mission, Part 4",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/86/Levi_attempts_to_break_through_the_Female_Titan%27s_defense.png/revision/latest/scale-to-width-down/350?cb=20180721212127",
+      "episode": "S1E20",
+      "characters": [
+        "https://api.attackontitanapi.com/characters/43",
+        "https://api.attackontitanapi.com/titans/6",
+        "https://api.attackontitanapi.com/characters/44",
+        "https://api.attackontitanapi.com/characters/1",
+        "https://api.attackontitanapi.com/characters/42",
+        "https://api.attackontitanapi.com/characters/188",
+        "https://api.attackontitanapi.com/characters/39",
+        "https://api.attackontitanapi.com/characters/38",
+        "https://api.attackontitanapi.com/characters/40",
+        "https://api.attackontitanapi.com/characters/41",
+        "https://api.attackontitanapi.com/characters/12",
+        "https://api.attackontitanapi.com/characters/30",
+        "https://api.attackontitanapi.com/characters/10",
+        "https://api.attackontitanapi.com/characters/2",
+        "https://api.attackontitanapi.com/characters/86",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/95",
+        "https://api.attackontitanapi.com/characters/4",
+        "https://api.attackontitanapi.com/characters/3",
+        "https://api.attackontitanapi.com/characters/66",
+        "https://api.attackontitanapi.com/characters/68",
+        "https://api.attackontitanapi.com/characters/8",
+        "https://api.attackontitanapi.com/characters/34",
+        "https://api.attackontitanapi.com/characters/23",
+        "https://api.attackontitanapi.com/characters/22",
+        "https://api.attackontitanapi.com/characters/24"
+      ]
+    }
+  ],
+  "titans": [
+    {
+      "id": "1",
+      "name": "Attack Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/a/ae/Attack_Titan_%28Anime%29_character_image_%28Eren_Jaeger%29.png/revision/latest/scale-to-width-down/350?cb=20170513212951",
+      "height": "15m",
+      "abilities": [
+        "Future memory inheritance"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/188",
+      "former_inheritors": [
+        "https://api.attackontitanapi.com/characters/160",
+        "https://api.attackontitanapi.com/characters/98"
+      ],
+      "allegiance": "Eldia"
+    },
+    {
+      "id": "2",
+      "name": "Founding Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3a/Eren_Jaeger_%28Anime%29_character_image_%28Founding_Titan%29.png/revision/latest/scale-to-width-down/350?cb=20220404091959",
+      "height": "350m",
+      "abilities": [
+        "Titan creation",
+        "Titan behavioral control",
+        "Memory and body manipulation of subjects of ymir",
+        "Telepathic communication with subjects of ymir"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/188",
+      "former_inheritors": [
+        "https://api.attackontitanapi.com/characters/160",
+        "https://api.attackontitanapi.com/characters/110",
+        "https://api.attackontitanapi.com/characters/111",
+        "https://api.attackontitanapi.com/characters/112",
+        "https://api.attackontitanapi.com/characters/113",
+        "https://api.attackontitanapi.com/characters/124"
+      ],
+      "allegiance": "Eldia"
+    },
+    {
+      "id": "3",
+      "name": "War Hammer Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b2/Lara_Tybur_%28Anime%29_character_image_%28Titan%29.png/revision/latest/scale-to-width-down/350?cb=20210117211130",
+      "height": "~15m",
+      "abilities": [
+        "Structural hardening",
+        "Remote operation"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/188",
+      "former_inheritors": [
+        "https://api.attackontitanapi.com/characters/118"
+      ],
+      "allegiance": "Eldia"
+    },
+    {
+      "id": "4",
+      "name": "Colossal Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/e/ed/Colossal_Titan_%28Anime%29_character_image_%28Armin_Arlelt%29.png/revision/latest?cb=20220222211301",
+      "height": "60 m",
+      "abilities": [
+        "Explosive transformation",
+        "Immense size and strength",
+        "Steam emission"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/1",
+      "former_inheritors": [
+        "https://api.attackontitanapi.com/characters/95"
+      ],
+      "allegiance": "Eldia"
+    },
+    {
+      "id": "5",
+      "name": "Armored Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/c/cf/Armored_Titan_%28Anime%29_character_image_%28Reiner_Braun%29.png/revision/latest/scale-to-width-down/350?cb=20170507070844",
+      "height": "15m",
+      "abilities": [
+        "Armored skin",
+        "Hardening"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/86",
+      "former_inheritors": [],
+      "allegiance": "Marley"
+    },
+    {
+      "id": "6",
+      "name": "Female Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/44/Female_Titan_%28Anime%29_character_image_%28Annie_Leonhart%29.png/revision/latest/scale-to-width-down/350?cb=20170708025046",
+      "height": "14m",
+      "abilities": [
+        "Versatility",
+        "Titan ",
+        "Attraction",
+        "Crystallization"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/87",
+      "former_inheritors": [],
+      "allegiance": "Marley"
+    },
+    {
+      "id": "7",
+      "name": "Beast Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/8/89/Beast_Titan_%28Anime%29_character_image_%28Zeke_Jaeger%29.png/revision/latest/scale-to-width-down/350?cb=20180821055620",
+      "height": "17m",
+      "abilities": [
+        "Powerful and accurate throwing",
+        "Hardening",
+        "Speech",
+        "Can turn subjects of ymir into titans that he can crudely control (users with royal blood only)"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/184",
+      "former_inheritors": [
+        "https://api.attackontitanapi.com/characters/97"
+      ],
+      "allegiance": "None"
+    },
+    {
+      "id": "8",
+      "name": "Jaw Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/d/da/Jaw_Titan_%28Anime%29_character_image_%28Porco_Galliard%29.png/revision/latest/scale-to-width-down/1000?cb=20201220224328",
+      "height": "5 m",
+      "abilities": [
+        "Powerful jaw strength",
+        "Hardened claws",
+        "Great speed and agility"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/89",
+      "former_inheritors": [
+        "https://api.attackontitanapi.com/characters/91",
+        "https://api.attackontitanapi.com/characters/176",
+        "https://api.attackontitanapi.com/characters/96"
+      ],
+      "allegiance": "Marley"
+    },
+    {
+      "id": "9",
+      "name": "Cart Titan",
+      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2e/Cart_Titan_%28Anime%29_character_image_%28Pieck_Finger%29.png/revision/latest/scale-to-width-down/350?cb=20210322020257",
+      "height": "4 m",
+      "abilities": [
+        "Quadrupedal form",
+        "High endurance",
+        "Great speed",
+        "Speech"
+      ],
+      "current_inheritor": "https://api.attackontitanapi.com/characters/88",
+      "former_inheritors": [],
+      "allegiance": "Marley"
+    }
+  ]
+}

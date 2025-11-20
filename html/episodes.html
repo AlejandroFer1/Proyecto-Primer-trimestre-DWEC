@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Episodios - Attack on Titan</title>
+    <link rel="stylesheet" href="..\css\style.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="titans.html">Titán</a></li>
+            <li><a href="episodes.html">Episodios</a></li>
+            <li><a href="characters.html">Personajes</a></li>
+            <li><a href="favorites.html">Favoritos</a></li>
+        </ul>
+    </nav>
+
+    <main id="main-content">
+        <h2>Episodios</h2>
+
+        <div id="search-container"
+            style="background: #2c2c2c; padding: 20px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #444;">
+            <h3 style="margin-top: 0;">Búsqueda de Episodios</h3>
+            <form id="search-form" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: flex-end;">
+                <div style="flex: 1; min-width: 200px;">
+                    <label for="search-episode" style="display: block; margin-bottom: 5px; color: #d4af37;">Código
+                        Episodio:</label>
+                    <input type="text" id="search-episode" placeholder="Ej: S01E01"
+                        style="width: 100%; padding: 8px; border-radius: 4px; border: 1px solid #555; background: #1a1a1a; color: white;">
+                </div>
+
+                <button type="submit"
+                    style="padding: 10px 20px; background: #d4af37; color: black; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">Buscar</button>
+            </form>
+        </div>
+
+        <div id="results-container">
+            <p>Cargando episodios...</p>
+        </div>
+    </main>
+
+    <script src="..\js\main.js"></script>
+    <script src="..\js\episodes.js"></script>
+</body>
+
+</html>
