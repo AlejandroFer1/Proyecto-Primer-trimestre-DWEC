@@ -30,7 +30,7 @@ async function loadEpisodes(filters = {}) {
         const params = new URLSearchParams();
 
         if (filters.episode) {
-            // json-server partial match
+            // coincidencia parcial de json-server
             params.append('episode_like', filters.episode);
         }
 

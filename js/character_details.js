@@ -15,15 +15,15 @@ async function loadCharacterDetails(id) {
     const episodesContainer = document.getElementById('episodes-list');
 
     try {
-        // 1. Fetch Character Details from local API
-        // Note: json-server IDs might be strings or numbers depending on how they were saved.
-        // The migration script saved them as they came from the API (likely numbers).
-        // But json-server routes are /characters/1
+        // 1. Obtener detalles del personaje de la API local
+        // Nota: Los IDs de json-server pueden ser cadenas o números dependiendo de cómo se guardaron.
+        // El script de migración los guardó tal como vinieron de la API (probablemente números).
+        // Pero las rutas de json-server son /characters/1
         const charResponse = await fetch(`http://localhost:3000/characters/${id}`);
         if (!charResponse.ok) throw new Error('Error al cargar personaje');
         const char = await charResponse.json();
 
-        // Render Character Details
+        // Renderizar detalles del personaje
         let imgSrc = char.img ? char.img.replace(/(\.png|\.jpg|\.jpeg|\.gif|\.webp).*$/i, '$1') : 'https://placehold.co/300x400?text=Sin+Imagen';
 
         detailsContainer.innerHTML = `
@@ -41,25 +41,25 @@ async function loadCharacterDetails(id) {
             </div>
         `;
 
-        // 2. Fetch Episodes
-        // We need to find episodes where this character appears.
-        // The migrated data has 'episodes' as an array of URLs.
-        // We can extract IDs from there.
+        // 2. Obtener episodios
+        // Necesitamos encontrar episodios donde aparece este personaje.
+        // Los datos migrados tienen 'episodes' como un array de URLs.
+        // Podemos extraer los IDs de ahí.
 
         if (char.episodes && char.episodes.length > 0) {
             episodesContainer.innerHTML = '<p>Cargando episodios...</p>';
 
             const episodeIds = char.episodes.map(url => {
-                // Extract ID from URL like "https://api.attackontitanapi.com/episodes/1"
+                // Extraer ID de la URL como "https://api.attackontitanapi.com/episodes/1"
                 const parts = url.split('/');
                 return parts[parts.length - 1] || parts[parts.length - 2];
-            }).filter(id => id); // Filter out empty/null
+            }).filter(id => id); // Filtrar vacíos/nulos
 
             if (episodeIds.length > 0) {
-                // Fetch episodes from local API
-                // We can't easily do "id IN (...)" with json-server standard without query string length limits.
-                // But we can try fetching all episodes and filtering client side if the list is huge, OR fetch individually.
-                // Given we have a local server, fetching individually is fast enough for 10-20 items.
+                // Obtener episodios de la API local
+                // No podemos hacer fácilmente "id IN (...)" con el estándar de json-server sin límites de longitud en la cadena de consulta.
+                // Pero podemos intentar obtener todos los episodios y filtrar en el lado del cliente si la lista es enorme, O obtenerlos individualmente.
+                // Dado que tenemos un servidor local, obtenerlos individualmente es lo suficientemente rápido para 10-20 elementos.
 
                 const episodesToFetch = episodeIds.slice(0, 12);
                 const episodePromises = episodesToFetch.map(epId =>
@@ -107,7 +107,7 @@ async function loadCharacterDetails(id) {
 }
 
 async function updateFavoritesUI() {
-    // Fetch favorites
+    // Obtener favoritos
     const response = await fetch('http://localhost:3000/favorites');
     const favorites = await response.json();
 

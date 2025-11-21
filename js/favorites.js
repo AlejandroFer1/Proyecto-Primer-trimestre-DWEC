@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         document.querySelectorAll('.remove-btn').forEach(button => {
             button.addEventListener('click', (e) => {
-                const id = e.target.getAttribute('data-id'); // This is the db id
+                const id = e.target.getAttribute('data-id'); // Este es el id de la base de datos
                 removeFavorite(id);
             });
         });
