@@ -14,10 +14,11 @@ document.addEventListener('DOMContentLoaded', async () => {
             const gender = document.getElementById('search-gender').value;
 
             // Validación simple
-            if (!name && !status && !gender) {
-                alert('Por favor, introduce al menos un criterio de búsqueda.');
-                return;
-            }
+            // Validación simple eliminada para permitir resetear la búsqueda
+            // if (!name && !status && !gender) {
+            //     alert('Por favor, introduce al menos un criterio de búsqueda.');
+            //     return;
+            // }
 
             await loadCharacters({ name, status, gender });
         });
