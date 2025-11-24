@@ -29,6 +29,19 @@ async function loadEpisodes(filters = {}) {
     try {
         // Fetch all episodes (no filters in URL)
         let url = 'http://localhost:3000/episodes';
+<<<<<<< HEAD
+=======
+        const params = new URLSearchParams();
+
+        if (filters.episode) {
+            // coincidencia parcial de json-server
+            params.append('episode_like', filters.episode);
+        }
+
+        if (params.toString()) {
+            url += `?${params.toString()}`;
+        }
+>>>>>>> e89ac99ccef3e10b05f2d839e9a39b4d7227ec44
 
         const [episodesResponse, favoritesResponse] = await Promise.all([
             fetch(url),

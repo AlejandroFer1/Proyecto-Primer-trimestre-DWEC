@@ -41,3 +41,15 @@ Este proyecto es una aplicación web SPA (Single Page Application) simulada que 
 ### CSS (Estilos)
 
 - `css/style.css`: Hoja de estilos global. Define el tema oscuro, la tipografía, el diseño de las tarjetas (cards) y la responsividad.
+<<<<<<< HEAD
+=======
+
+## Porcentajes de Participación
+
+| Nombres                    | Porcentaje |
+| -------------------------- | ---------- |
+| Izan Heras Carrasco        | 33.33 %    |
+| Alejandro Fernández Martín | 33.33 %    |
+| Enrique Manrique Ruiz      | 33.33 %    |
+| ChatGpt                    | 0.01 %     |
+>>>>>>> e89ac99ccef3e10b05f2d839e9a39b4d7227ec44
