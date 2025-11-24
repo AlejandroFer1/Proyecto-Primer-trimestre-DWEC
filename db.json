@@ -1,20 +1,5 @@
 {
-  "favorites": [
-    {
-      "id": "8eec",
-      "type": "character",
-      "originId": 1,
-      "name": "Armin Arlelt",
-      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png"
-    },
-    {
-      "id": "31b1",
-      "type": "episode",
-      "originId": 1,
-      "name": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
-      "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/b/b4/The_Colossal_Titan_outside_Shiganshina.png"
-    }
-  ],
+  "favorites": [],
   "characters": [
     {
       "id": "1",

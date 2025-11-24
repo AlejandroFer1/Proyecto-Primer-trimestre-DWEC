@@ -11,10 +11,11 @@ document.addEventListener('DOMContentLoaded', async () => {
             e.preventDefault();
             const episodeCode = document.getElementById('search-episode').value.trim();
 
-            if (!episodeCode) {
-                alert('Por favor, introduce un código de episodio.');
-                return;
-            }
+            // Permitir búsqueda vacía para resetear
+            // if (!episodeCode) {
+            //     alert('Por favor, introduce un código de episodio.');
+            //     return;
+            // }
 
             await loadEpisodes({ episode: episodeCode });
         });
@@ -26,17 +27,8 @@ async function loadEpisodes(filters = {}) {
     resultsContainer.innerHTML = '<p>Cargando...</p>';
 
     try {
+        // Fetch all episodes (no filters in URL)
         let url = 'http://localhost:3000/episodes';
-        const params = new URLSearchParams();
-
-        if (filters.episode) {
-            // json-server partial match
-            params.append('episode_like', filters.episode);
-        }
-
-        if (params.toString()) {
-            url += `?${params.toString()}`;
-        }
 
         const [episodesResponse, favoritesResponse] = await Promise.all([
             fetch(url),
@@ -47,8 +39,14 @@ async function loadEpisodes(filters = {}) {
             throw new Error('No se encontraron resultados o error en la API.');
         }
 
-        const episodes = await episodesResponse.json();
+        let episodes = await episodesResponse.json();
         const favorites = await favoritesResponse.json();
+
+        // Client-side filtering
+        if (filters.episode) {
+            const episodeFilter = filters.episode.toLowerCase();
+            episodes = episodes.filter(ep => ep.episode.toLowerCase().includes(episodeFilter));
+        }
 
         displayEpisodes(episodes, favorites);
     } catch (error) {

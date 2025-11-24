@@ -14,10 +14,11 @@ document.addEventListener('DOMContentLoaded', async () => {
             const gender = document.getElementById('search-gender').value;
 
             // Validación simple
-            if (!name && !status && !gender) {
-                alert('Por favor, introduce al menos un criterio de búsqueda.');
-                return;
-            }
+            // Validación simple eliminada para permitir resetear la búsqueda
+            // if (!name && !status && !gender) {
+            //     alert('Por favor, introduce al menos un criterio de búsqueda.');
+            //     return;
+            // }
 
             await loadCharacters({ name, status, gender });
         });
@@ -29,16 +30,8 @@ async function loadCharacters(filters = {}) {
     resultsContainer.innerHTML = '<p>Cargando personajes...</p>';
 
     try {
+        // Fetch all characters (no filters in URL)
         let url = 'http://localhost:3000/characters';
-        const params = new URLSearchParams();
-
-        if (filters.name) params.append('name_like', filters.name);
-        if (filters.status) params.append('status', filters.status);
-        if (filters.gender) params.append('gender', filters.gender);
-
-        if (params.toString()) {
-            url += `?${params.toString()}`;
-        }
 
         const [charsResponse, favoritesResponse] = await Promise.all([
             fetch(url),
@@ -47,8 +40,20 @@ async function loadCharacters(filters = {}) {
 
         if (!charsResponse.ok) throw new Error('Error al cargar personajes');
 
-        const characters = await charsResponse.json();
+        let characters = await charsResponse.json();
         const favorites = await favoritesResponse.json();
+
+        // Client-side filtering
+        if (filters.name) {
+            const nameFilter = filters.name.toLowerCase();
+            characters = characters.filter(char => char.name.toLowerCase().includes(nameFilter));
+        }
+        if (filters.status) {
+            characters = characters.filter(char => char.status === filters.status);
+        }
+        if (filters.gender) {
+            characters = characters.filter(char => char.gender === filters.gender);
+        }
 
         displayCharacters(characters, favorites);
     } catch (error) {
